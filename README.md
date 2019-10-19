@@ -30,3 +30,6 @@ But what about deployment? How can you make sure that a code change is sent to a
 
 ## consistent hashing
 https://www.toptal.com/big-data/consistent-hashing
+and code 
+https://www.toptal.com/big-data/consistent-hashing
+

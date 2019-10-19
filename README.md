@@ -28,3 +28,5 @@ An external persistent cache will have better performance than an external datab
 
 But what about deployment? How can you make sure that a code change is sent to all your servers without one server still serving old code? This tricky problem is fortunately already solved by the great tool Capistrano. It requires some learning, especially if you are not into Ruby on Rails, but it is definitely worth the effort.
 
+## consistent hashing
+https://www.toptal.com/big-data/consistent-hashing
